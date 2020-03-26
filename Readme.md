@@ -1,9 +1,9 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Константин Сидельников](https://up.htmlacademy.ru/adaptive/19/user/1178191).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Колотович] (https://htmlacademy.ru/profile/id225353).
 
----
+--
 
 **Обратите внимание, что папка с вашими исходными файлами — `source/`.**
 
